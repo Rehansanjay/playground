@@ -1,33 +1,18 @@
-# Daily Contributions
+# Playground
 
-Tracking my daily coding journey.
+A coding sandbox for experimenting with new tech, APIs, and side projects.
 
-Saturday contribution 1
+## What's here
 
-Saturday contribution 2
+- Quick prototypes and proof-of-concepts
+- API experiments
+- Learning new frameworks and libraries
+- Code snippets and utilities
 
-Saturday contribution 3
+## Tech Stack
 
-Saturday contribution 4
+- JavaScript / TypeScript
+- Python
+- React / Next.js
+- Node.js
 
-Saturday contribution 5
-
-Saturday contribution 6
-
-Saturday contribution 7
-
-Saturday contribution 8
-
-Saturday contribution 9
-
-Saturday contribution 10
-
-Saturday contribution 11
-
-Saturday contribution 12
-
-Saturday contribution 13
-
-Saturday contribution 14
-
-Saturday contribution 15

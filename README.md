@@ -16,3 +16,5 @@ A coding sandbox for experimenting with new tech, APIs, and side projects.
 - React / Next.js
 - Node.js
 
+
+Sunday experiment 1
